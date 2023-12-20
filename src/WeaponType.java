@@ -1,2 +1,5 @@
-package PACKAGE_NAME;public enum WeaponType {
+public enum WeaponType {
+    LASER,
+    STEEL_ARMS,
+    FIRE_ARMS
 }
